@@ -14,6 +14,916 @@
      "sha256": "0fc88d3195e99717f18f385d8f1947aca5256931fb9f16cc2f1269017904b037"
     }
    ]
+  },
+  {
+   "slug": "lei-2008-15786",
+   "short": "Lei 15786/2008",
+   "title": "Lei nº 15.786, de 20 de fevereiro de 2008",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=8",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=8&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "037cbd81fdca52b09329472266b5689bafb241a7cfd00451cc1fa58810a2329e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-15760",
+   "short": "Lei 15760/2008",
+   "title": "Lei nº 15.760, de 14 de janeiro de 2008",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=9",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 6,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=9&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "9673bef364528f0fdaaea8861885a7ea34b415793ea993d3ccad8401985a2352"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15759",
+   "short": "Lei 15759/2007",
+   "title": "Lei nº 15.759, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=10",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=10&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "fd1bf52a018e5858d813919128f58d7ac345cde9498bf632c8a2c054efd4997e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15758",
+   "short": "Lei 15758/2007",
+   "title": "Lei nº 15.758, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=11",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 7,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=11&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "bc3401402da7676c31e86151dfcd939602d35b975b62a77fb8d515141e83a858"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15757",
+   "short": "Lei 15757/2007",
+   "title": "Lei nº 15.757, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=13",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 9,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=13&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "959279f1332ae730426ec737544e827025440733e8b65f9b33b8a238c80a6fed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15756",
+   "short": "Lei 15756/2007",
+   "title": "Lei nº 15.756, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=14",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=14&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "76da4c6496a4063a336994681d71240f7b59df8c7a907605a3f53258bfafe5a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15755",
+   "short": "Lei 15755/2007",
+   "title": "Lei nº 15.755, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=15",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=15&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b78d2ba0b0f6ac84cf127c739b71941803a5f52bac5cf3083ebb273007d27a37"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15753",
+   "short": "Lei 15753/2007",
+   "title": "Lei nº 15.753, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=17",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=17&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "2224a26395314255a78f74ed7e2aaeaa438c9cda03c229973e8f27475888be69"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15752",
+   "short": "Lei 15752/2007",
+   "title": "Lei nº 15.752, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=18",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=18&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "1f5dd63eaa5d92b0fb3514885edf37fe42a9fb40df252bebc0c4293562cba80d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15751",
+   "short": "Lei 15751/2007",
+   "title": "Lei nº 15.751, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=19",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=19&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "9bf5ddced0d6c9a7f38e44481680a6d98da832eba0ae1df9afba0ae0ba1a32da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15749",
+   "short": "Lei 15749/2007",
+   "title": "Lei nº 15.749, de 26 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=21",
+   "versions": [
+    {
+     "from": "2007-12-26",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=21&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "3e6f181cf8f05aea7a1ce0d481c88755da2c7ce50f4a1dc006c5477fd4619f30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15748",
+   "short": "Lei 15748/2007",
+   "title": "Lei nº 15.748, de 24 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=23",
+   "versions": [
+    {
+     "from": "2007-12-24",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=23&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "23eb289ffd097b5b3f21e7953e89f87a7c103b8c24a6de6103871ad82246f57c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15747",
+   "short": "Lei 15747/2007",
+   "title": "Lei nº 15.747, de 24 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=24",
+   "versions": [
+    {
+     "from": "2007-12-24",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=24&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "4b5fdfb77a29ca2d5f1be9d197950b361ed81fb20080c8fa18da7f599b208b04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15746",
+   "short": "Lei 15746/2007",
+   "title": "Lei nº 15.746, de 20 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=25",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 5,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=25&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "e737929cbb9dd993d8a67458f0c5e5745a3ad838345718f211aa7f36f9e556e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15745",
+   "short": "Lei 15745/2007",
+   "title": "Lei nº 15.745, de 20 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=26",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 5,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=26&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "880849c32b9d43121327adab5f572bb98a26e5a319eb67a5450f02969b9abf88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15744",
+   "short": "Lei 15744/2007",
+   "title": "Lei nº 15.744, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=28",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 8,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=28&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "ee82703256f07e6aa58abc20faac04dc0f4709daed8ba5ea49536b5751eff16b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15743",
+   "short": "Lei 15743/2007",
+   "title": "Lei nº 15.743, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=29",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 5,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=29&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "f98a9299fefa8bdbfde4d86299083ad8e17a2eda12740f401e33c3f7b6e90841"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15741",
+   "short": "Lei 15741/2007",
+   "title": "Lei nº 15.741, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=31",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=31&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "aeb75357a6703d0decf6ac111d8656fa90289ecae047f9ef21ededaecc585e0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15740",
+   "short": "Lei 15740/2007",
+   "title": "Lei nº 15.740, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=32",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=32&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b5b0fe5ad9d257c3962672528f542494dd7cb501395e1a48c5bfe1432315e7c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15739",
+   "short": "Lei 15739/2007",
+   "title": "Lei nº 15.739, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=33",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=33&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "bcac992adb010791c3c76f4c94a0ed48b1ea08e6fa053ba8f9b728556f839a21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15738",
+   "short": "Lei 15738/2007",
+   "title": "Lei nº 15.738, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=35",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=35&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "1ebb013c43ce1e534d2a0334d4ca19bb7732e3124629b77499237e081bf3fcb4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15737",
+   "short": "Lei 15737/2007",
+   "title": "Lei nº 15.737, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=36",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=36&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "3dd47eefed66c4ad8e3f748800333b0d7df2dbb57a097352cd7005e9fd0c079e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15735",
+   "short": "Lei 15735/2007",
+   "title": "Lei nº 15.735, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=43",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=43&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "c736dbe760d1ee88593f412a11ed1fcf5ca6427d1f6c2d14a5982e7aac97bb11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15734",
+   "short": "Lei 15734/2007",
+   "title": "Lei nº 15.734, de 18 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=44",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=44&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "8d5bae341f8f714660b946ae2f5695657650a0c9a749dff32451f69ed6355bca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15733",
+   "short": "Lei 15733/2007",
+   "title": "Lei nº 15.733, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=45",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=45&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "4a547ce44a177bf1fa253abc318a9fe57f0db6be0967378b1f7fb925bf1e7b01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15732",
+   "short": "Lei 15732/2007",
+   "title": "Lei nº 15.732, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=46",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=46&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "81feae0db79b172992a134a242265e82127eab4afc1bb2fdc3fd561c304cd8a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15731",
+   "short": "Lei 15731/2007",
+   "title": "Lei nº 15.731, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=47",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=47&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "7ba937f2ba7f6c4015ab857d00115d4ec0d6f4f72774cccffca2ddc5a3c5db68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15730",
+   "short": "Lei 15730/2007",
+   "title": "Lei nº 15.730, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=48",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=48&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "ade5c35cf4ab72bf9f36b0ae36b266edf0428983497e8ce06a83c3fcfa2b5337"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15729",
+   "short": "Lei 15729/2007",
+   "title": "Lei nº 15.729, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=49",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=49&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "c007da38e532832ae732a215416b8dee8e34e32a66b0c47117bde20e3d668826"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15728",
+   "short": "Lei 15728/2007",
+   "title": "Lei nº 15.728, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=50",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=50&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "185d4c9139c9f9d24a73d79dac90446d57c40ac2d255a28c65cbed01b20faa92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15727",
+   "short": "Lei 15727/2007",
+   "title": "Lei nº 15.727, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=51",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=51&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "88c5324c30bd18a810037536803b9f02ba2bd06a2b7bb4d2cb359d7c9d7fcd1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15726",
+   "short": "Lei 15726/2007",
+   "title": "Lei nº 15.726, de 13 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=52",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=52&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "a2a1e64addd77a704d767aab0b1ff319c9665f4419551acc1fc4c6137fbe8df6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15725",
+   "short": "Lei 15725/2007",
+   "title": "Lei nº 15.725, de 11 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=53",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 6,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=53&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "a82367fb9877995ba1ef3d814492712b776c1330a318f4570e7a32b019bcac8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15724",
+   "short": "Lei 15724/2007",
+   "title": "Lei nº 15.724, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=54",
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 6,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=54&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "ff29f7aad48b0fb909575a59cca85a9b7bc5ab619ace0c3f02722e075d16aeb8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15723",
+   "short": "Lei 15723/2007",
+   "title": "Lei nº 15.723, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=55",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=55&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "14adeaca226d27c40bfda31f9e999c588638da19041cd3646bc41057460b57d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15722",
+   "short": "Lei 15722/2007",
+   "title": "Lei nº 15.722, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=56",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=56&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "f24a8fa51b1e49872d13888ba332dd8b8eb26fc3daba0ec4d9d8ecfdbe670f23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15721",
+   "short": "Lei 15721/2007",
+   "title": "Lei nº 15.721, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=57",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=57&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b755105c002dab16aaa51f53f4429779b83c822966429bf1d85d86142e958e27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15720",
+   "short": "Lei 15720/2007",
+   "title": "Lei nº 15.720, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=58",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=58&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "34c7f2f9d48059bea9e91d05c21d44bf23b85a77b85430b550604a538de860a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15719",
+   "short": "Lei 15719/2007",
+   "title": "Lei nº 15.719, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=59",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=59&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "c1fc82ed341681a978488e764b604bb14d741d7df988dfbda1be00e0faf290e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15718",
+   "short": "Lei 15718/2007",
+   "title": "Lei nº 15.718, de 10 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=60",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=60&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b5b6b7fb6ccd70fcf86939777b1345ee42665ccabe8defa0d967a4736c3719ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15717",
+   "short": "Lei 15717/2007",
+   "title": "Lei nº 15.717, de 4 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=61",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=61&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "9108fc557f2c8f4d547f7f113acda497e7ef74feb1c54a75a1c593ad4d0f4032"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15716",
+   "short": "Lei 15716/2007",
+   "title": "Lei nº 15.716, de 3 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=62",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=62&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "3a371bd031c5149bbf178cdffcfcdb55df375af01f9323f88bf79c58205567fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15715",
+   "short": "Lei 15715/2007",
+   "title": "Lei nº 15.715, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=63",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=63&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "2e030661f166461bb0f8c68cf257fd0a2e21a99f0d2c513267b234b2ea1f4747"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15713",
+   "short": "Lei 15713/2007",
+   "title": "Lei nº 15.713, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=65",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=65&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b1f26659a0880fa4d7401cb4b554ba323a4189fe100bb97c0ad0d962162e79e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15710",
+   "short": "Lei 15710/2007",
+   "title": "Lei nº 15.710, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=67",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=67&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "a37fe54f644e8ee097c49a02e864cd5c4d69e3cd3e4033eb36cac0411bc8ecb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15709",
+   "short": "Lei 15709/2007",
+   "title": "Lei nº 15.709, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=68",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=68&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "eb795295592bad1ade0a8cf6111dfed6d32aa6d6d76924dba59966ed58f42688"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15708",
+   "short": "Lei 15708/2007",
+   "title": "Lei nº 15.708, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=69",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=69&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "6c59554576141979385db95cc29dedd10065a35b060e464db1afc3da0cfac950"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15707",
+   "short": "Lei 15707/2007",
+   "title": "Lei nº 15.707, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=70",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=70&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "645cda74fd7cba9af3088270cf7de58cc9f2a69924c8e3bfb844e5f01845b78e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15706",
+   "short": "Lei 15706/2007",
+   "title": "Lei nº 15.706, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=71",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=71&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "e02accab3813fe61118028d834d285b66c21fe25121189692fef264481efd726"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15705",
+   "short": "Lei 15705/2007",
+   "title": "Lei nº 15.705, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=72",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=72&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "0639e4125c30931305367fd18e3f6f2a549bae4e993da9d418f1c220b3b28ea4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15704",
+   "short": "Lei 15704/2007",
+   "title": "Lei nº 15.704, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=73",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=73&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "653dad4bf6ed28134bf168665a1cbef7bad31cac37ad788ed888c6bfab1dd6b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15703",
+   "short": "Lei 15703/2007",
+   "title": "Lei nº 15.703, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=74",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=74&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "b3ab4b78b5ef9936721142aa625e05aa9136b1d9e541a9c79a60faad2e63b53a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15702",
+   "short": "Lei 15702/2007",
+   "title": "Lei nº 15.702, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=75",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=75&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "77ecea0ee84b2e678d1cba0cdc92b71674db86ef3a8b5566dab4fc3da5ad997f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15701",
+   "short": "Lei 15701/2007",
+   "title": "Lei nº 15.701, de 30 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=76",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 6,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=76&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "8c4279f2f9ac995e080a3b98b7c28d0d661991dc57f42521acd9fa3b0e0f417b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15700",
+   "short": "Lei 15700/2007",
+   "title": "Lei nº 15.700, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=77",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=77&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "80a971a35e7162a1a000a925bb92909bf891e4bbe314b82b7b359a6f7623ae62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15699",
+   "short": "Lei 15699/2007",
+   "title": "Lei nº 15.699, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=79",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=79&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "68883ee824e9a34dbd1cd4f732239f9263ed631d685376ea523d164e059048b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15698",
+   "short": "Lei 15698/2007",
+   "title": "Lei nº 15.698, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=80",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 4,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=80&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "bdea117799f68f5cb416b1479f4c9bbbf30bacb9972f59e78592ee610deb8f8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15697",
+   "short": "Lei 15697/2007",
+   "title": "Lei nº 15.697, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=81",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=81&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "0d01c730b0997b83d5498479a5bddee8401e9ba30270f6e965f12c3576727570"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15695",
+   "short": "Lei 15695/2007",
+   "title": "Lei nº 15.695, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=83",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 7,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=83&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "7796ac75f300eb26a10d80279b9e9fbe6dd4d6d99e9e6aab148e82e0ca605049"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15694",
+   "short": "Lei 15694/2007",
+   "title": "Lei nº 15.694, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=84",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=84&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "612529415491ce34b0c878782ce7b6620652800486d0a2304b0748f4ffdeea13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15693",
+   "short": "Lei 15693/2007",
+   "title": "Lei nº 15.693, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=85",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 5,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=85&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "ce62454ec258450caf74f0938a009c9a09e7ea5994080cbfc84948f98e9556f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15692",
+   "short": "Lei 15692/2007",
+   "title": "Lei nº 15.692, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=86",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=86&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "81c87edba84f45bb33375bc25aa30568265029be49caa23e46a77c9fa4327fac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15691",
+   "short": "Lei 15691/2007",
+   "title": "Lei nº 15.691, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=87",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=87&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "e4989d26257308c3a0140135b1d7cda9965ac536be431325891ca9ed08b58f70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15690",
+   "short": "Lei 15690/2007",
+   "title": "Lei nº 15.690, de 27 de dezembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=88",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=88&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "1a80c089aa986fc19e596aec5c7a655281bcfcdc9237f28561e32b01e532fc58"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-15689",
+   "short": "Lei 15689/2007",
+   "title": "Lei nº 15.689, de 27 de novembro de 2007",
+   "url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=89",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 3,
+     "source_url": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=89&codTipoAto=&tipoVisualizacao=compilado",
+     "sha256": "256815e64f41d1d8c7f6d7cac15205bdbdbae97fbd02e42fed4263c32de2d5fa"
+    }
+   ]
   }
  ]
 }
